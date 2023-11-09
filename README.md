@@ -1,8 +1,7 @@
-# React + Vite
+# client side live link:https://jobhub-ecf0b.web.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.Navigation: Create a navigation bar that is present on all pages, except the 404 page. Include links to the Home, All Jobs, Applied Jobs, Add A Job, My Jobs, Blogs, and User Profile. Customize the navbar based on whether the user is logged in or not. Display the user profile picture and name when available.
+2.Login & Registration:Firebase is used for Login & registration. Implement the login and registration pages. Display relevant error messages when necessary. Allow users to log in using email/password and Google Sign-In. The registration page should include fields for name, email, password, and a photo URL.
+3.Home Page: Create a banner section with a heading, short description, and a search input field with a button. Implement a tab system for different job categories . Use a library like react-tabs or create your own tab system. Display job cards for each category, showing information such as the job poster name, job title, posting date, application deadline, salary range, and the number of job applicants. Provide a View Details button, and if the user is not logged in, show a notification prompting them to log in. Blogs Page: Create a blog page that answers specific questions. Provide detailed explanations of concepts.
+4.All Jobs Page: Display jobs in a tabular form, showing information about the job poster name, job title, posting date, application deadline, salary range, and a Details button. Implement a search system based on the job title. If a user clicks the Details button without being logged in, redirect them to the login page. Single Job Details:
+5.Create a private route. Display job details, including the company logo, job banner, job title, description, salary range, number of applicants, and an Apply button. Implement an apply button that opens a modal with the user name and email auto-filled. Include an input field for submitting a resume link. Add a Submit Application button to save the application to a MongoDB collection. Prevent applicants from applying if the deadline is over.
