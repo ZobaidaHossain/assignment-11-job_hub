@@ -10,7 +10,7 @@ const Footer = () => {
     </p> 
     <div>
         <h2 className='font-bold'>Address</h2>
-        <p>79/B,avenue-1,Mirpur-12,Dhaka</p>
+        <p>79/B,avenue-1,1216,Mirpur-12,Dhaka</p>
     </div>
     <p>Copyright © 2023 - All right reserved</p>
   </aside> 
