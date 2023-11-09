@@ -9,7 +9,7 @@ const Banner = () => {
          
             <div className='text-white font-bold space-y-7 pl-12 w-1/2'> <h2 className='text-6xl lg:text-5xl'>Your Gateway to Opportunity
             </h2> 
-            <p>Explore, apply, and get job opportunities seamlessly.</p>
+            <p>Explore, apply, and get job opportunities.</p>
             <div className='flex space-x-2'>
             <input
               type="text"
