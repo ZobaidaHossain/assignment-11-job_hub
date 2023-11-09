@@ -35,7 +35,7 @@ const Extra = () => {
               <div className="review-item">
                 <img src={img4} alt="Emily Davis" className="reviewer-image  w-full h-[200px]" />
                 <h3 className="text-xl font-semibold">Professional Resources</h3>
-                <p>Access valuable resources, including resume building tips, interview guidance, and career advice.</p>
+                <p>Access valuable resources, including resume building tips, interview guidance and career advice.</p>
               </div>
             </div>
            
