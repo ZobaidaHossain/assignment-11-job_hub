@@ -87,7 +87,7 @@ const handleAddToCart = () => {
           <h2 className="card-title">Job Title:{allCoffees.title}</h2>
           <p>description: {allCoffees.description}</p>
           <p>salary range: {allCoffees.salary}</p>
-          <p>Number of Application: {allCoffees.numbers}</p>
+          <p>number of Application: {allCoffees.numbers}</p>
           <div className="card-actions justify-end">
             <Link to={`/alljob/details/apply`}>
             <button className={`btn btn-primary ${disableApplyButton ? 'disabled' : ''}`} disabled={disableApplyButton}
