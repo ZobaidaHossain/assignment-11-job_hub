@@ -22,7 +22,7 @@ const AddjobCard = ({ coffee }) => {
         <div className="card card-compact w-[23rem] h-[24rem] bg-base-100 shadow-xl m-5">
             <div className="card-body">
                 <p className="card-title">Job posted by: {name}</p>
-                <p className="card-title">Job Title: {title}</p>
+                <p className="card-title">Job title: {title}</p>
                 <p className="card-title">Job Posting Date: {posting}</p>
                 <p className="card-title">Job Category: {category}</p>
                 <p className="card-title">Application Deadline: {deadline}</p>
