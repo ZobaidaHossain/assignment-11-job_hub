@@ -14,7 +14,7 @@ const Review = () => {
               <div className="review-item">
                 <img src={img1} alt="John Doe" className="reviewer-image" />
                 <h3 className="text-xl font-semibold">John Doe</h3>
-                <p>JobHub made my job hunt a breeze! The platform's intuitive interface and vast job listings helped me find the perfect role in no time. Highly recommended for anyone seeking a career upgrade.</p>
+                <p>JobHub made my job hunt a breeze! The platform intuitive interface and vast job listings helped me find the perfect role in no time. Highly recommended for anyone seeking a career upgrade.</p>
               </div>
             </div>
             <div className="w-1/2 sm:w-1/3 md-w-1/4 lg:w-1/5 xl:w-1/6">
