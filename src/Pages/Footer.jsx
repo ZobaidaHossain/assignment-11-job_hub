@@ -12,7 +12,7 @@ const Footer = () => {
         <h2 className='font-bold'>Address</h2>
         <p>79/B,avenue-1,1216,Mirpur-12,Dhaka</p>
     </div>
-    <p>Copyright © 2023 - All right reserved</p>
+    <p>Copyright © 2023 -- All right reserved</p>
   </aside> 
   <nav>
     <div className="grid grid-flow-col gap-4">
