@@ -10,7 +10,7 @@ const Error = () => {
         className="not-found-image"
       />
       <button className="btn btn-warning">
-       <Link to='/'>Back to Home</Link> 
+       <Link to='/'>Back to Home please</Link> 
       </button>
     </div>
     );
