@@ -84,7 +84,7 @@ const handleAddToCart = () => {
         <div className="card-body">
           <p>job posted email:{allCoffees.email}</p>
           <p>job apply by:{user.email}</p>
-          <h2 className="card-title">Job title:{allCoffees.title}</h2>
+          <h2 className="card-title">Job Title:{allCoffees.title}</h2>
           <p>description: {allCoffees.description}</p>
           <p>salary range: {allCoffees.salary}</p>
           <p>Number of Application: {allCoffees.numbers}</p>
