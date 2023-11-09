@@ -83,7 +83,7 @@ Nest JS
 
 6.Home Page:
 
-Create a banner section with a heading, short description, and a search input field with a button.
+here create a banner section with a heading, short description, and a search input field with a button.
 Implement a tab system for different job categories . Use a library like react-tabs or create your own tab system.
 Display job cards for each category, showing information such as the job poster name, job title, posting date, application deadline, salary range, and the number of job applicants.
 Provide a View Details button, and if the user is not logged in, show a notification prompting them to log in.
