@@ -14,7 +14,7 @@ const Extra = () => {
               <div className="review-item">
                 <img src={img1} alt="John Doe" className="reviewer-image w-full h-[200px]" />
                 <h3 className="text-xl font-semibold">Extensive Job Listings</h3>
-                <p>Access a wide array of job opportunities across multiple industries and sectors.</p>
+                <p>Access a wide array of job opportunities across multiple industries and sectors</p>
               </div>
             </div>
             <div className="w-1/2 sm:w-1/3 md-w-1/4 lg:w-1/5 xl:w-1/6">
