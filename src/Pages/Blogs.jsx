@@ -78,7 +78,7 @@ Nest JS
 4.Navigation: Create a navigation bar that is present on all pages, except the 404 page. Include links to the Home, All Jobs, Applied Jobs, Add A Job, My Jobs, Blogs, and User Profile. Customize the navbar based on whether the user is logged in or not. Display the user profile picture and name when available.
 <br />
 
-5.Login & Registration:here Firebase is used for Login & registration. Implement the login and registration pages. Display relevant error messages when necessary. Allow users to log in using email/password and Google Sign-In. The registration page should include fields for name, email, password, and a photo URL.
+5.Login & Registration:here Firebase is used for Login & registration.. Implement the login and registration pages. Display relevant error messages when necessary. Allow users to log in using email/password and Google Sign-In. The registration page should include fields for name, email, password, and a photo URL.
 <br />
 
 6.Home Page:
